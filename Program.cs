@@ -6,4 +6,4 @@ for (int birinchi_son = 0;birinchi_son < raqamlar_soni;birinchi_son++){
     Console.Write(">> ");
     summa += Convert.ToSingle(Console.ReadLine());
 }
-Console.WriteLine("Kiritilgan raqamlar o'rta arifmetigi " + summa/raqamlar_soni);
+Console.WriteLine("Kiritilgan raqamlar o'rta arifmetigi ekan" + summa/raqamlar_soni);
